@@ -467,7 +467,7 @@
     <div id="screen-intro" class="screen active">
       <div class="intro">
         <div class="badge">
-          <div class="badge-dot"></div><span class="badge-text">amman.circle</span>
+          <div class="badge-dot"></div><span class="badge-text">Social circle by Amman circle</span>
         </div>
         <h1>Find your people.</h1>
         <p>Answer a few quick questions and our algorithm will connect you with the perfect amman.circle — people worth
